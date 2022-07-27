@@ -1,0 +1,4 @@
+The code is designed to be run in jupyter notebook environment.
+The code reads return data from csv files located in the "related_files" directory.
+Relative path is used to read the csv files. 
+The libraries that need to be installed are:pandas, numpy, matplotlib, cplex, cvxopt, cvxpy, cyipopt.
